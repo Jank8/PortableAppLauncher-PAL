@@ -1,6 +1,6 @@
 # Portable Application Launcher (PAL)
-
-
+ 
+ 
 <p align="center">
   <img src="PAL.svg" alt="PAL Logo" width="120" height="120">
 </p>
