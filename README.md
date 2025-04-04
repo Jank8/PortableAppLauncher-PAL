@@ -68,5 +68,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## Credits
 
-- Original author: Tritonio
+- Original author: Tritonio http://inshame.blogspot.com
 - Updated by: Jany (2025) 
