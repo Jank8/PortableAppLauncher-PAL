@@ -13,7 +13,6 @@ Portable Application Launcher (PAL) is a tool that allows you to make almost any
 - Isolating application files
 - Preserving application state between sessions
 
-Originally created by Tritonio and updated by Jany for AutoIt3 3.3.16.1 (2025).
 
 ## Features
 
@@ -57,8 +56,8 @@ Originally created by Tritonio and updated by Jany for AutoIt3 3.3.16.1 (2025).
 - **PAL.svg**: Project logo
 - **PortableData/**: Directory containing portable application files
 - **PortableRegistry.dat**: Registry data for portable application
-- **LocalData/**: Backup of original application files (created on first run)
-- **LocalRegistry.dat**: Backup of original registry data (created on first run)
+- **LocalData/**: Backup of original application files
+- **LocalRegistry.dat**: Backup of original registry data
 
 ## License
 
